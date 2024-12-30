@@ -1,9 +1,13 @@
-Here’s a sample `README.md` file for your Markdown Previewer project:
 
-```markdown
 # Markdown Previewer
 
 A simple markdown previewer built with React, Vite, and Tailwind CSS that allows users to write markdown and see the rendered HTML in real time.
+
+## Screenshots
+
+<img width="836" alt="pic22" src="https://github.com/user-attachments/assets/1d9288be-b6cb-4100-8cf0-4a19dfc3b8f5" />
+
+
 
 ## Features
 
@@ -27,9 +31,6 @@ A simple markdown previewer built with React, Vite, and Tailwind CSS that allows
 
 You can try out the live demo of the project here: [Live Demo](#)
 
-## Screenshots
-
-![Markdown Previewer](./screenshots/previewer.png)
 
 ## Installation
 
@@ -37,27 +38,21 @@ Follow the steps below to set up the project on your local machine.
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/markdown-previewer.git
-   ```
+   
+   git clone https://github.com/ArvanHunt/markdown-react
+   
 
 2. Navigate to the project directory:
 
-   ```bash
    cd markdown-previewer
-   ```
 
 3. Install dependencies:
 
-   ```bash
    npm install
-   ```
 
 4. Start the development server:
 
-   ```bash
    npm run dev
-   ```
 
 5. Open your browser and visit `http://localhost:3000` to see the app in action.
 
@@ -87,17 +82,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Made with ❤️ by ARVAN https://github.com/ArvanHunt.
-```
 
----
-
-### Key Sections:
-
-- **Features**: Lists the features of the markdown previewer.
-- **Installation**: Provides instructions to get the project up and running on a local machine.
-- **Usage**: Explains how to use the markdown previewer.
-- **Technologies Used**: Highlights the technologies used to build the app (React, Vite, Tailwind CSS, etc.).
-- **Contributing**: Encourages contributions and outlines how others can help improve the project.
-- **License**: Includes a link to the license file, typically MIT for open-source projects.
-
-Feel free to customize it further based on your needs! 😊
